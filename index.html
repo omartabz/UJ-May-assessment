@@ -1,11 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="style.css">
 </head>
-<body>
-    <h1>Hello World</h1>
+
+<body style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;">
+    <section>
+        <h1 style="text-align: center;color: blue;">{{user.fullName}}</h1>
+
+        <h4 style="text-align: center;">{{user.address}}</h4>
+        <h4 style="text-align: center;">{{user.phone}}{{user.email}}</h4>
+    </section>
+
+    <h3 style="color: blue;">{{user.Pro}}</h3>
+    <p style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size: large;text-align: justify;">Highly motivated IT professional with 8 years of experience in Data Science.   
+    </p>
+
+    <h3 style="color: blue;">{{user.XP}}</h3>
+    <h5>{{work.soft}}</h5>
+    <h5>{{organisation.Treyarch}}</h5>
+    <ul>
+        {{each}}
+        <li>{{item.softxp}}</li>
+        {{/each}}
+    </ul>
+
+
 </body>
+
 </html>
