@@ -6,42 +6,60 @@
         "email" : "Email :omartabegwa@gmail.com",
         "address" : "15 High Acres South Dale",
         "Pro" : "Professional Summary",
-        "XP": "Work Experience"
-
-
+        "XP": "Work Experience",
+        "Link":"Github-omartabz"
         
+    },
+    "lang":{
+        "head":"Languages",
+        "lang1":"English",
+        "lang2":"French",
+        "lang3":"Japanese"
     },
 
     "work" : {
-        "soft":"Software Developer|01/2020-Current"
-
+        "soft":"Software Developer|01/2020-Current",
+        "hard": "Game Developer|01/2016-11/2019"
     },
 
     "item":{
-        "softxp":["Translating designs into code","Building game engines or tools","Optimizing code for performance", "Developing gameplay mechanics"],
-        "sum":["Proven ability to develop Video Games with FrostBite engine and Ruby software.Passionate about console and computer software and eager to contribute to a dynamic team environment Strong understanding of game development lifecycle and a collaborative approach to creating engaging and immersive gaming experiences.Ability to design and implement core gameplay mechanics optimize code for performance and collaborate effectively with designers and artists. Shipped 2 console games with over 1 million downloads"]    
+        "softxp":"Translating designs into code",
+        "softxp1":"Building game engines or tools",
+        "softxp2":"Optimizing code for performance",
+        "softxp3":"Developing gameplay mechanics",
+        "hardxp":"Working with designers and artists",
+        "hardxp1":"Identifying and fixing bugs",
+        "hardxp2":"Maintaining and updating code",
+        "hardxp3":"Version control and documentation",
+        "sum":["Highly motivated IT professional with 8 years of experience in Data Science.Proven ability to develop Video Games with FrostBite engine and Ruby software.Passionate about console and computer software and eager to contribute to a dynamic team environment Strong understanding of game development lifecycle and a collaborative approach to creating engaging and immersive gaming experiences.Ability to design and implement core gameplay mechanics optimize code for performance and collaborate effectively with designers and artists. Shipped 2 console games with over 1 million downloads"]    
     },
 
     "education" : {
-        "institutionName" : "University of The Free State",
-        "photo" : "",
-        "description" : "Bachelors in Environmental Management"
+        "Heading": "Education",  
+        "institutionName" : "University of The Free State|Masters in Software Development - 2014",
+        "instiName": "CodeX Basic and Advanced Principles - 2024",
+        "instiNum": "Generalities Quality Management ISO:9001 - 2016",
+        "description" : "Bachelors in Environmental Management - 2018" 
     },
     "organisation" : {
-        "Treyarch" : "Treyarch - Santa Monica"
+        "Treyarch" : "Treyarch - Santa Monica",
+        "Ubisoft": "Ubisoft - Kyoto"
         },
-    "Skills" : [
-        {
+
+        "Reference":{
+            "head":"References",
+            "ref":"Thabang Xcode- siri@CodeX.co.za - +27 112 4356",
+            "ref1":"Sibusiso Xcode - sibu@Codex.co.za - +27 343 9765",
+            "ref2":"Ezio Aldetori - ez@ubisoft - +345 763 4589"
+        },
+
+    "Skills": {
+            "names": "Skills",
             "name" : "Problem solving",
-            "description" : ""
-        },
-        {
-            "name" : "Computer skills",
-            "description" : "Python, JavaScript,ViteJs"
-        },
-        {
-            "name" : "Leadership",
-            "description" : "Team Management"
+            "name1":"Computer skills",
+            "name2":"Leadership",
+            "name3":"New Program Development"
         }
-    ]
-}
+    }
+
+
