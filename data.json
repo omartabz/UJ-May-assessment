@@ -1,38 +1,47 @@
 {
     "user" : {
-        "fullName" : "",
+        "fullName" : "Omar Tabengwa",
         "photo" : "",
-        "phone" : "",
-        "email" : ""
+        "phone" : "Phone :0761004238",
+        "email" : "Email :omartabegwa@gmail.com",
+        "address" : "15 High Acres South Dale",
+        "Pro" : "Professional Summary",
+        "XP": "Work Experience"
+
+
+        
     },
+
+    "work" : {
+        "soft":"Software Developer|01/2020-Current"
+
+    },
+
+    "item":{
+        "softxp":["Translating designs into code","Building game engines or tools","Optimizing code for performance", "Developing gameplay mechanics"],
+        "sum":["Proven ability to develop Video Games with FrostBite engine and Ruby software.Passionate about console and computer software and eager to contribute to a dynamic team environment Strong understanding of game development lifecycle and a collaborative approach to creating engaging and immersive gaming experiences.Ability to design and implement core gameplay mechanics optimize code for performance and collaborate effectively with designers and artists. Shipped 2 console games with over 1 million downloads"]    
+    },
+
     "education" : {
-        "institutionName" : "",
+        "institutionName" : "University of The Free State",
         "photo" : "",
-        "description" : ""
+        "description" : "Bachelors in Environmental Management"
     },
-    "foreignLanguage" : {
-        "language" : "",
-        "phrases" : [{
-            "englishPhrase" : "",
-            "foreignLanguage" : ""
+    "organisation" : {
+        "Treyarch" : "Treyarch - Santa Monica"
         },
+    "Skills" : [
         {
-            "englishPhrase" : "",
-            "foreignLanguage" : ""
-        }]
-    },
-    "favouriteSubjects" : [
-        {
-            "name" : "",
+            "name" : "Problem solving",
             "description" : ""
         },
         {
-            "name" : "",
-            "description" : ""
+            "name" : "Computer skills",
+            "description" : "Python, JavaScript,ViteJs"
         },
         {
-            "name" : "",
-            "description" : ""
+            "name" : "Leadership",
+            "description" : "Team Management"
         }
     ]
 }
